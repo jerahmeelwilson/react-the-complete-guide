@@ -1,3 +1,7 @@
 debug console
 breakpoints
 react dev tools
+
+Portals and Fragments helps write cleaner code
+Fragments, <> used to avoid rendering unecessary divs 
+portal - renders components in a another place, use ReactDOM.createPortal(component, element) with a element in index.html
